@@ -19,3 +19,8 @@ The configurations that will appear in your [port number]-config.yml file allows
 :
  
 //config data here
+
+### Code source
+
+fork https://github.com/rayzerbrain/SpectatorShootingRange
+But I can't use GitHub，I don't know how to upload git to my own fork

@@ -9,9 +9,9 @@ The shooting range can be accessed whenever someone that is spectating uses the 
 
 ### Commands to utilize-
 
-.range (client console command)- as a spectator anyone can use this command to enter the shooting range
+.bc (client console command)- as a spectator anyone can use this command to enter the shooting range
 
-.spectate (client console command)- anyone in the shooting range can use this command to return to spectator (they will be returned automatically for respawn events)
+.fh (client console command)- anyone in the shooting range can use this command to return to spectator (they will be returned automatically for respawn events)
 
 
 ### Configuration
